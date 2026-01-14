@@ -6,12 +6,6 @@ Sou desenvolvedor focado na criação de interfaces modernas, responsivas e func
 
 ---
 
-## 🚀 Stacks de Atuação
-- **Front-end Development**
-- **Mobile Development**
-
----
-
 ## 🛠️ Linguagens & Tecnologias
 
 ### 🌐 Front-end
