@@ -25,13 +25,6 @@ Sou desenvolvedor focado na criação de interfaces modernas, responsivas e func
 
 ---
 
-## 📈 GitHub Stats
-![Ruan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=dark)
-
----
-
 ## 📫 Vamos nos conectar!
 - 💼 Desenvolvendo projetos web e mobile
 - 🚀 Sempre aprendendo novas tecnologias
